@@ -103,7 +103,6 @@ The main goal of this project is to:
 ## 📎 Author
 
 **Adarsh Kumar**
-Aspiring **Data Analyst** skilled in **Excel, SQL, and Power BI**.
 
 ---
 
