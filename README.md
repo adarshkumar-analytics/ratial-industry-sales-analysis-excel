@@ -66,7 +66,7 @@ The main goal of this project is to:
 
 ---
 
-## 📈 Dashboard Features
+## 📈 Report Features
 
 * KPI metrics for:
 
